@@ -8,14 +8,17 @@ import { toast } from "react-hot-toast";
 import { useRouter } from "next/navigation";
 import { ClipLoader } from "react-spinners";
 
-const HomePage = ({ data, id }: any) => {
+const HomePage = ({
+  data,
+}: // id
+any) => {
   // console.log({ data: data });
   const router = useRouter();
 
   const { table, highlighted_cells, id: collectionId } = data;
   const [isLoading, setIsLoading] = useState(false);
 
-  // console.log({ table: table });
+  console.log({ table: table });
   // console.log({ highlighted_cells: highlighted_cells });
 
   const {
@@ -37,7 +40,7 @@ const HomePage = ({ data, id }: any) => {
 
     try {
       const data: any = {
-        id: id,
+        // id: id,
         collectionId: collectionId,
         sentence_annotations: [
           {

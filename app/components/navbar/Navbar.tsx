@@ -5,6 +5,7 @@ import Logo from "./Logo";
 import Search from "./Search";
 import UserMenu from "./UserMenu";
 import { User } from "@prisma/client";
+import Link from "next/link";
 
 interface NavbarProps {
   currentUser?: User | null;
@@ -18,7 +19,9 @@ const Navbar: React.FC<NavbarProps> = ({ currentUser }) => {
       <div className="py-4 border-b-[1px] flex md:block ">
         <Container>
           <div className="flex flex-row items-center justify-between gap-3 md:gap-0">
-            <Logo />
+            <Link href={"/"}>
+              <Logo />
+            </Link>
             <UserMenu currentUser={currentUser} />
           </div>
         </Container>
