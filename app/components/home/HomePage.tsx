@@ -3,7 +3,6 @@
 import React, { useState } from "react";
 import Table from "./Table";
 import { FieldValues, SubmitHandler, useForm } from "react-hook-form";
-import { NextResponse } from "next/server";
 import axios from "axios";
 import { toast } from "react-hot-toast";
 import { useRouter } from "next/navigation";
@@ -79,7 +78,8 @@ const HomePage = ({ data, id }: any) => {
 
       // console.log({ data: data });
     } catch (err) {
-      NextResponse.error();
+      toast.error("something went wrong");
+      console.log(err);
     }
   };
 
