@@ -7,6 +7,7 @@ import useRegisterModal from "@/app/hooks/useRegisterModal";
 import useLoginModal from "@/app/hooks/useLoginModal";
 import { User } from "@prisma/client";
 import { signOut } from "next-auth/react";
+import { useRouter } from "next/navigation";
 
 interface UserMenuProps {
   currentUser?: User | null;
@@ -16,10 +17,15 @@ const UserMenu: React.FC<UserMenuProps> = ({ currentUser }) => {
   const registerModal = useRegisterModal();
   const loginModal = useLoginModal();
   const [isOpen, setIsOpen] = useState(false);
+  const router = useRouter();
 
   const toggleOpen = useCallback(() => {
     setIsOpen((value) => !value);
   }, []);
+
+  const handleHome = useCallback(() => {
+    router.push("/");
+  }, [router]);
 
   return (
     <div className="relative">
@@ -28,14 +34,14 @@ const UserMenu: React.FC<UserMenuProps> = ({ currentUser }) => {
           onClick={() => {}}
           className="hidden md:block text-sm font-semibold py-3 px-4 rounded-full hover:bg-neutral-100 transition cursor-pointer "
         >
-          Airbnb your home
+          {currentUser?.name}
         </div>
         <div
           onClick={toggleOpen}
           className="p-4  md:py-1 md:px-2 border-[1px] border-neutral-200 flex flex-row items-center gap-3 rounded-full cursor-pointer hover:shadow-md transition"
         >
           <AiOutlineMenu />
-          <div className="hidden md:block">
+          <div className="">
             <Avatar src={currentUser?.image} />
           </div>
         </div>
@@ -45,11 +51,11 @@ const UserMenu: React.FC<UserMenuProps> = ({ currentUser }) => {
           <div className="flex flex-col cursor-pointer">
             {currentUser ? (
               <>
-                <MenuItem onClick={() => {}} label="My trips" />
+                {/* <MenuItem onClick={() => {}} label="My trips" />
                 <MenuItem onClick={() => {}} label="my fevourits" />
-                <MenuItem onClick={() => {}} label="my reservation" />
-                <MenuItem onClick={() => {}} label="my properties" />
-                <MenuItem onClick={() => {}} label="Airbnb my home" />
+                <MenuItem onClick={() => {}} label="my reservation" /> */}
+                {/* <MenuItem onClick={() => {}} label="my Annotations" /> */}
+                <MenuItem onClick={() => handleHome()} label=" home" />
                 <hr />
                 <MenuItem onClick={() => signOut()} label="Logout" />
               </>

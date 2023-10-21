@@ -7,3 +7,44 @@ body,
 :root {
   height: 100%;
 }
+
+/* Table styles */
+.table {
+  font-family: Arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+/* Table header cell styles */
+.th {
+  border: 1px solid #888;
+  text-align: center;
+  background-color: #f2f2f2;
+}
+
+/* Table data cell styles */
+.td {
+  border: 1px solid #888;
+  text-align: center;
+}
+
+/* Even row styles */
+.even-row {
+  background-color: #f2f2f2;
+}
+
+/* Hover row styles */
+.hover-row {
+  background-color: #ddd;
+}
+
+.highlighted-td {
+  background-color: yellow !important; /* Set the background color to yellow */
+  /* Add any other styles you want for highlighted cells */
+}
+
+input {
+  border: 1px solid black;
+  height: 3rem;
+  transition: height 0.5s ease-in-out;
+}

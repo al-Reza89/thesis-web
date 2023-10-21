@@ -62,7 +62,11 @@ const LoginModal = () => {
 
   const bodyContent = (
     <div className="flex flex-col gap-4">
-      <Heading title="Welcome back" subtitle="Login to your account" />
+      <Heading
+        title="Welcome back"
+        subtitle="Login to your account"
+        center={false}
+      />
       <Input
         id="email"
         label="Email"
@@ -100,7 +104,7 @@ const LoginModal = () => {
       />
       <div className=" text-neutral-500 mt-4 font-light">
         <div className=" justify-center flex flex-row items-center gap-2">
-          <div>First time using Airbnb?</div>
+          <div>First time using thesis-web?</div>
           <div
             onClick={toggle}
             className="text-neutral-800 cursor-pointer hover:underline"
@@ -124,6 +128,7 @@ const LoginModal = () => {
       onSubmit={handleSubmit(onSubmit)}
       body={bodyContent}
       footer={footerContent}
+      secondaryActionLabel={""}
     />
   );
 };
