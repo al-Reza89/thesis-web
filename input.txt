@@ -1,0 +1,183 @@
+<url>
+https://bn.wikipedia.org/wiki/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA
+</url>
+
+<pagetitle>
+পরিসংখ্যানগত সারসংক্ষেপ
+</pagetitle>
+
+<sectiontitle >
+দলের সাফল্য
+</sectiontitle>
+
+<sectiontext>
+নিচের টেবিলে বিগত এশিয়া কাপগুলোতে দলের ক্রিয়াকলাপ এর একটি সংক্ষিপ্ত চিত্র প্রদান করা হলো।
+</sectiontext>
+
+<table class="wikitable" style="text-align: center;">
+
+<tbody><tr>
+<th rowspan="2" width="180">দল
+</th>
+<th colspan="3">উপস্থিত
+</th>
+<th rowspan="2" width="270">শ্রেষ্ঠ ফলাফল
+</th>
+<th rowspan="2">শিরোপা
+</th>
+<th rowspan="2">রানার আপ
+</th>
+<th colspan="5">পরিসংখ্যান<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[১৬]</a></sup>
+</th></tr>
+<tr>
+<th width="50">মোট
+</th>
+<th width="50">প্রথম
+</th>
+<th width="50">সর্বশেষ
+</th>
+<th width="30">খেলার সংখ্যা
+</th>
+<th width="30">বিজয়ী
+</th>
+<th width="30">হার
+</th>
+<th width="30">টাই
+</th>
+<th width="30">ফলাফল হয়নি
+</th></tr>
+<tr>
+<td style="text-align:left;"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" decoding="async" width="23" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="900" data-file-height="600"></span></span>&nbsp;</span><a href="/wiki/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4_%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F_%E0%A6%A6%E0%A6%B2" title="ভারত জাতীয় ক্রিকেট দল">ভারত</a>
+</td>
+<td>১১</td>
+<td><a href="/wiki/%E0%A7%A7%E0%A7%AF%E0%A7%AE%E0%A7%AA_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="১৯৮৪ এশিয়া কাপ">১৯৮৪</a></td>
+<td><a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০১৮ এশিয়া কাপ">২০১৮</a></td>
+<td>চ্যাম্পিয়ন <br>(<a href="/wiki/%E0%A7%A7%E0%A7%AF%E0%A7%AE%E0%A7%AA_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="১৯৮৪ এশিয়া কাপ">১৯৮৪</a>, <a href="/wiki/%E0%A7%A7%E0%A7%AF%E0%A7%AE%E0%A7%AE_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="১৯৮৮ এশিয়া কাপ">১৯৮৮</a>, <a href="/wiki/%E0%A7%A7%E0%A7%AF%E0%A7%AF%E0%A7%A6-%E0%A7%AF%E0%A7%A7_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="১৯৯০-৯১ এশিয়া কাপ">১৯৯০-৯১</a>, <a href="/wiki/%E0%A7%A7%E0%A7%AF%E0%A7%AF%E0%A7%AB_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="১৯৯৫ এশিয়া কাপ">১৯৯৫</a>, <a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%A6_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০১০ এশিয়া কাপ">২০১০</a>, <a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AC_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০১৬ এশিয়া কাপ">২০১৬</a>, <a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০১৮ এশিয়া কাপ">২০১৮</a>, <a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A9_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০২৩ এশিয়া কাপ">২০২৩</a>)
+</td>
+<td>৮
+</td>
+<td>৩</td>
+<td>৪৩</td>
+<td>২৬</td>
+<td>১৬</td>
+<td>০</td>
+<td>১
+</td></tr>
+<tr>
+<td style="text-align:left;"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/23px-Flag_of_Sri_Lanka.svg.png" decoding="async" width="23" height="12" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/35px-Flag_of_Sri_Lanka.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/46px-Flag_of_Sri_Lanka.svg.png 2x" data-file-width="1200" data-file-height="600"></span></span>&nbsp;</span><a href="/wiki/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B2%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE_%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F_%E0%A6%A6%E0%A6%B2" title="শ্রীলঙ্কা জাতীয় ক্রিকেট দল">শ্রীলঙ্কা</a>
+</td>
+<td>১২</td>
+<td><a href="/wiki/%E0%A7%A7%E0%A7%AF%E0%A7%AE%E0%A7%AA_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="১৯৮৪ এশিয়া কাপ">১৯৮৪</a></td>
+<td><a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০১৮ এশিয়া কাপ">২০১৮</a></td>
+<td>চ্যাম্পিয়ন <br> (<a href="/wiki/%E0%A7%A7%E0%A7%AF%E0%A7%AE%E0%A7%AC_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="১৯৮৬ এশিয়া কাপ">১৯৮৬</a>, <a href="/wiki/%E0%A7%A7%E0%A7%AF%E0%A7%AF%E0%A7%AD_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="১৯৯৭ এশিয়া কাপ">১৯৯৭</a>, <a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%AA_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০০৪ এশিয়া কাপ">২০০৪</a>, <a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%AE_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০০৮ এশিয়া কাপ">২০০৮</a>, <a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AA_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০১৪ এশিয়া কাপ">২০১৪</a>, <a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A8_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০২২ এশিয়া কাপ">২০২২</a>)
+</td>
+<td>৬
+</td>
+<td>৬</td>
+<td>৪৮</td>
+<td>৩৪</td>
+<td>১৪</td>
+<td>০</td>
+<td>০
+</td></tr>
+<tr>
+<td style="text-align:left;"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png" decoding="async" width="23" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/35px-Flag_of_Pakistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/45px-Flag_of_Pakistan.svg.png 2x" data-file-width="900" data-file-height="600"></span></span>&nbsp;</span><a href="/wiki/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8_%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F_%E0%A6%A6%E0%A6%B2" title="পাকিস্তান জাতীয় ক্রিকেট দল">পাকিস্তান</a>
+</td>
+<td>১১</td>
+<td><a href="/wiki/%E0%A7%A7%E0%A7%AF%E0%A7%AE%E0%A7%AA_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="১৯৮৪ এশিয়া কাপ">১৯৮৪</a></td>
+<td><a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০১৮ এশিয়া কাপ">২০১৮</a></td>
+<td>চ্যাম্পিয়ন (<a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%A6_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০০০ এশিয়া কাপ">২০০০, ২০১২</a>)
+</td>
+<td>২
+</td>
+<td>২</td>
+<td>৪০</td>
+<td>২৪</td>
+<td>১৫</td>
+<td>০</td>
+<td>১
+</td></tr>
+<tr>
+<td style="text-align:left;"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png" decoding="async" width="23" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/35px-Flag_of_Bangladesh.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/46px-Flag_of_Bangladesh.svg.png 2x" data-file-width="1000" data-file-height="600"></span></span>&nbsp;</span><a href="/wiki/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F_%E0%A6%A6%E0%A6%B2" title="বাংলাদেশ জাতীয় ক্রিকেট দল">বাংলাদেশ</a>
+</td>
+<td>১১</td>
+<td><a href="/wiki/%E0%A7%A7%E0%A7%AF%E0%A7%AE%E0%A7%AC_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="১৯৮৬ এশিয়া কাপ">১৯৮৬</a></td>
+<td><a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০১৮ এশিয়া কাপ">২০১৮</a></td>
+<td>রানার-আপ (<a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%A8_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০১২ এশিয়া কাপ">২০১২</a>, <a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AC_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০১৬ এশিয়া কাপ">২০১৬</a>, <a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০১৮ এশিয়া কাপ">২০১৮</a>)
+</td>
+<td>০
+</td>
+<td>২</td>
+<td>৪</td>
+<td>৩৩</td>
+<td>০</td>
+<td>০
+</td></tr>
+<tr>
+<td style="text-align:left;"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/23px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png" decoding="async" width="23" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/35px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/45px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png 2x" data-file-width="900" data-file-height="600"></span></span>&nbsp;</span><a href="/wiki/%E0%A6%86%E0%A6%AB%E0%A6%97%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8_%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F_%E0%A6%A6%E0%A6%B2" title="আফগানিস্তান জাতীয় ক্রিকেট দল">আফগানিস্তান</a>
+</td>
+<td>১</td>
+<td><a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AA_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০১৪ এশিয়া কাপ">১৯৮৬</a></td>
+<td><a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০১৮ এশিয়া কাপ">২০১৮</a></td>
+<td>প্রথম রাউন্ড (<a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AA_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০১৪ এশিয়া কাপ">২০১৪</a>)
+</td>
+<td>০
+</td>
+<td>০</td>
+<td>৪</td>
+<td>১</td>
+<td>৩</td>
+<td>০</td>
+<td>০
+</td></tr>
+<tr>
+<td style="text-align:left;"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/23px-Flag_of_the_United_Arab_Emirates.svg.png" decoding="async" width="23" height="12" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/35px-Flag_of_the_United_Arab_Emirates.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/46px-Flag_of_the_United_Arab_Emirates.svg.png 2x" data-file-width="1200" data-file-height="600"></span></span>&nbsp;</span><a href="/wiki/%E0%A6%B8%E0%A6%82%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4_%E0%A6%86%E0%A6%B0%E0%A6%AC_%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A4_%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F_%E0%A6%A6%E0%A6%B2" title="সংযুক্ত আরব আমিরাত জাতীয় ক্রিকেট দল">সংযুক্ত আরব আমিরাত</a>
+</td>
+<td>২</td>
+<td><a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%AA_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০০৪ এশিয়া কাপ">২০০৪</a></td>
+<td><a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০১৮ এশিয়া কাপ">২০১৮</a></td>
+<td>প্রথম রাউন্ড (<a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%AA_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০০৪ এশিয়া কাপ">২০০৪</a>, <a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%AE_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০০৮ এশিয়া কাপ">২০০৮</a>)
+</td>
+<td>০
+</td>
+<td>০</td>
+<td>৪</td>
+<td>০</td>
+<td>৪</td>
+<td>০</td>
+<td>০
+</td></tr>
+<tr>
+<td style="text-align:left;"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/23px-Flag_of_Hong_Kong.svg.png" decoding="async" width="23" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/35px-Flag_of_Hong_Kong.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/45px-Flag_of_Hong_Kong.svg.png 2x" data-file-width="900" data-file-height="600"></span></span>&nbsp;</span><a href="/wiki/%E0%A6%B9%E0%A6%82%E0%A6%95%E0%A6%82_%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F_%E0%A6%A6%E0%A6%B2" title="হংকং জাতীয় ক্রিকেট দল">হংকং</a>
+</td>
+<td>২</td>
+<td><a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%AA_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০০৪ এশিয়া কাপ">২০০৪</a></td>
+<td><a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০১৮ এশিয়া কাপ">২০১৮</a></td>
+<td>প্রথম রাউন্ড (<a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%AA_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০০৪ এশিয়া কাপ">২০০৪</a>, <a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%AE_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০০৮ এশিয়া কাপ">২০০৮</a>)
+</td>
+<td>০
+</td>
+<td>০</td>
+<td>৪</td>
+<td>০</td>
+<td>৪</td>
+<td>০</td>
+<td>০
+</td></tr>
+<tr>
+<td style="text-align:left;"><span class="flagicon"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/16px-Flag_of_Nepal.svg.png" decoding="async" width="16" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/25px-Flag_of_Nepal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/33px-Flag_of_Nepal.svg.png 2x" data-file-width="726" data-file-height="885"></span></span>&nbsp;&nbsp;&nbsp;</span><a href="/wiki/%E0%A6%A8%E0%A7%87%E0%A6%AA%E0%A6%BE%E0%A6%B2_%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F_%E0%A6%A6%E0%A6%B2" title="নেপাল জাতীয় ক্রিকেট দল">নেপাল</a>
+</td>
+<td>১</td>
+<td><a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A9_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০২৩ এশিয়া কাপ">২০২৩</a></td>
+<td><a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০১৮ এশিয়া কাপ">২০২৩</a></td>
+<td>প্রথম রাউন্ড (<a href="/wiki/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A9_%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AA" title="২০২৩ এশিয়া কাপ">২০২৩</a>)
+</td>
+<td>০
+</td>
+<td>০</td>
+<td>২</td>
+<td>০</td>
+<td>২</td>
+<td>০</td>
+<td>০
+</td></tr></tbody></table>
