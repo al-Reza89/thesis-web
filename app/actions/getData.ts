@@ -3,18 +3,18 @@ import getCurrentUser from "./getCurrentUser";
 import prisma from "@/app/libs/prismadb";
 
 export default async function getData() {
-  // const currentUser = await getCurrentUser();
+  const currentUser = await getCurrentUser();
 
-  // if (!currentUser) {
-  //   return NextResponse.error();
-  // }
+  if (!currentUser) {
+    return NextResponse.error();
+  }
 
   try {
     // console.log("backend call");
 
     const firstCome = await prisma?.collection.findFirst({
       where: {
-        // userId: currentUser.id,
+        userId: currentUser.id,
         isValidate: {
           equals: 0,
         },
@@ -42,7 +42,7 @@ export default async function getData() {
         },
         data: {
           isShow: 1,
-          // userId: currentUser.id,
+          userId: currentUser.id,
         },
       });
 
@@ -51,7 +51,7 @@ export default async function getData() {
       const mlData = await prisma?.collection.findFirst({
         where: {
           id: firstCome?.id,
-          // userId: currentUser.id,
+          userId: currentUser.id,
           isValidate: {
             equals: 0,
           },

@@ -8,10 +8,7 @@ import { toast } from "react-hot-toast";
 import { useRouter } from "next/navigation";
 import { ClipLoader } from "react-spinners";
 
-const HomePage = ({
-  data,
-}: // id
-any) => {
+const HomePage = ({ data, id }: any) => {
   // console.log({ data: data });
   const router = useRouter();
 
@@ -40,7 +37,7 @@ any) => {
 
     try {
       const data: any = {
-        // id: id,
+        id: id,
         collectionId: collectionId,
         sentence_annotations: [
           {
