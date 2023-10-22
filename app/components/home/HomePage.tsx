@@ -15,7 +15,7 @@ const HomePage = ({ data, id }: any) => {
   const { table, highlighted_cells, id: collectionId } = data;
   const [isLoading, setIsLoading] = useState(false);
 
-  console.log({ table: table });
+  // console.log({ table: table });
   // console.log({ highlighted_cells: highlighted_cells });
 
   const {
