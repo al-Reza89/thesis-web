@@ -10,8 +10,6 @@ export default async function getData() {
   }
 
   try {
-    // console.log("backend call");
-
     const firstCome = await prisma?.collection.findFirst({
       where: {
         userId: currentUser.id,
