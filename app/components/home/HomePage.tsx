@@ -124,7 +124,9 @@ const HomePage = ({ data, id }: any) => {
           />
           {errors.final_sentence && <p>This field is required</p>}
           {isLoading ? (
-            <button className="cursor-pointer  border-none  bg-red-500 w-full text-2xl py-2 my-5 rounded-lg text-white font-bold">
+            <button
+              className={` cursor-not-allowed  border-none  bg-red-500 w-full text-2xl py-2 my-5 rounded-lg text-white font-bold`}
+            >
               <ClipLoader color="#ffffff" size={30} />
             </button>
           ) : (
