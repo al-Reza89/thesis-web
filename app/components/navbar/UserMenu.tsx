@@ -27,6 +27,10 @@ const UserMenu: React.FC<UserMenuProps> = ({ currentUser }) => {
     router.push("/");
   }, [router]);
 
+  const handleInstruction = useCallback(() => {
+    router.push("/instruction");
+  }, [router]);
+
   return (
     <div className="relative">
       <div className="flex flex-row items-center gap-3">
@@ -56,6 +60,11 @@ const UserMenu: React.FC<UserMenuProps> = ({ currentUser }) => {
                 <MenuItem onClick={() => {}} label="my reservation" /> */}
                 {/* <MenuItem onClick={() => {}} label="my Annotations" /> */}
                 <MenuItem onClick={() => handleHome()} label=" home" />
+                <hr />
+                <MenuItem
+                  onClick={() => handleInstruction()}
+                  label=" Instruction"
+                />
                 <hr />
                 <MenuItem onClick={() => signOut()} label="Logout" />
               </>

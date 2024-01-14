@@ -8,7 +8,7 @@ import { toast } from "react-hot-toast";
 import { useRouter } from "next/navigation";
 import { ClipLoader } from "react-spinners";
 
-const HomePage = ({ data, id }: any) => {
+const HomePage = ({ data, id, count }: any) => {
   // console.log({ data: data });
   const router = useRouter();
 
@@ -87,6 +87,9 @@ const HomePage = ({ data, id }: any) => {
     <div className="max-w-[1240px] ">
       <div className="text-center flex flex-col gap-2 ">
         <h1 className="text-xl md:text-4xl font-bold text-blue-500 ">
+          {count}
+        </h1>
+        <h1 className="text-xl md:text-4xl font-bold text-green-700 ">
           {data.table_page_title}
         </h1>
         <h1 className="text-lg md:text-2xl">{data.table_section_title}</h1>

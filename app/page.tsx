@@ -16,7 +16,7 @@ export default async function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between px-5  xl:px-10 xl:pt-10">
       <div className="gap-10 mt-24 ">
-        <HomePage data={data} id={currentUser.id} />
+        <HomePage data={data} id={currentUser.id} count={currentUser.count} />
       </div>
     </main>
   );
