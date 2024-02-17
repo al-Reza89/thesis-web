@@ -96,7 +96,7 @@ const HomePage = ({ data, id, count }: any) => {
         <p>{data.table_section_text}</p>
       </div>
       <Table data={table} highlighted_cells={highlighted_cells} />
-      <div className="text-black py-5 mx-2 ">
+      <div className="text-black py-5 mx-2 px-4 ">
         <form
           onSubmit={handleSubmit(onSubmit)}
           className="flex flex-col justify-center items-center"

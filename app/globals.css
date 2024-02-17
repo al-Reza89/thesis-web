@@ -48,3 +48,13 @@ input {
   height: 3rem;
   transition: height 0.5s ease-in-out;
 }
+
+.overflow-x-auto {
+  overflow-x: auto;
+}
+
+@media (min-width: 640px) {
+  .md:min-w-fit {
+    min-width: fit-content;
+  }
+}

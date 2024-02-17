@@ -20,7 +20,7 @@ function Table({ data, highlighted_cells }: TableProps) {
 
   return (
     <div
-      className="table-container sm:min-w-xs "
+      className="table-container  overflow-x-visible"
       style={{ overflowX: "scroll" }}
     >
       <table className="table">
